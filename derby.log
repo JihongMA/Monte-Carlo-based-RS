@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Wed May 17 18:08:02 PDT 2017:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.10.2.0 - (1582446): instance a816c00e-015c-1918-eb85-00001a4ba1e0 
+on database directory /private/var/folders/4x/wyy5gc3d1qq4s53hcwk5d4mr0000gn/T/spark-cdb0fa8e-770b-4242-837a-f1c82500ead2/metastore with class loader org.apache.spark.sql.hive.client.IsolatedClientLoader$$anon$1@2bfc8558 
+Loaded from file:/Users/jihongma/.m2/repository/org/apache/derby/derby/10.10.2.0/derby-10.10.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_73-b02
+user.dir=/Users/jihongma/Apache-Spark/RS-Probability/rs-city-1.5.1
+os.name=Mac OS X
+os.arch=x86_64
+os.version=10.11.3
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
